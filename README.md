@@ -1,34 +1,33 @@
 # HR-Analitycs-Dashboard
-HR Analitycs Dashboard using Pivot Chart, Pivot Table, Slicer with Microsoft Excel
-**THE DATASET USED IS DUMMY DATA**
+Data yang digunakan adalah data dummy
 
 ## 📌 Project Overview
-This HR Analytics Dashboard was built using Microsoft Excel to analyze workforce data through interactive visualizations, KPI cards, Pivot Tables, Pivot Charts, and Slicers.
+Dashboard ini dibuat sebagai latihan mempelajari Power BI dasar — fokus pada visualisasi data, penggunaan filter/slicer, dan desain dashboard. Menggunakan single table dengan DAX dasar.
 
 ## 📷 Dashboard Preview
 <img width="798" height="645" alt="Dashboard" src="https://github.com/user-attachments/assets/ae2caaa5-81e2-4b71-9fe8-63d02e112ceb" />
 
-## ❓Bussines Question
-- How many active employees are there?
-- Which department has the highest number of active employees?
-- What is the gender distribution of employees?
-- Which department has the highest average salary?
-- Which department has the highest average performance?
-- How are employees distributed by years of service?
+## ❓Pertanyaan Insight
+- Berapa jumlah karyawan aktif saat ini?
+- Departemen mana yang memiliki jumlah karyawan aktif terbanyak?
+- Bagaimana distribusi gender karyawan?
+- Departemen mana yang memiliki rata-rata gaji tertinggi?
+- Departemen mana yang memiliki rata-rata performa tertinggi?
+- Bagaimana distribusi karyawan berdasarkan masa kerja (years of service)?
 
-## 📊 Dashboard Features
-- KPI Cards to display key HR metrics.
-- Interactive Slicers for filtering data by Gender, Employment Status, and Department.
-- Pivot Tables for data aggregation and analysis.
-- Pivot Charts for visualizing HR metrics.
-- Department-wise analysis of employee count, salary, and performance.
-- Interactive dashboard layout for easy exploration of HR data.
+## 📊 Fitur Dashboard
+- KPI Card untuk menampilkan metrik HR utama.
+- Slicer interaktif untuk memfilter data berdasarkan Gender, Status Karyawan, dan Departemen.
+- Pivot Table untuk agregasi dan analisis data.
+- Pivot Chart untuk memvisualisasikan metrik HR.
+- Analisis per departemen untuk jumlah karyawan, gaji, dan performa.
+- Layout dashboard interaktif untuk memudahkan eksplorasi data HR.
 
-  ## 🛠 Tools Used
+  ## 🛠 Tools yang digunakan
 
 - Microsoft Excel
 
-## 💼 Skills Demonstrated
+## 💼 Skill yang ditunjukkan
 
 - Data Analysis
 - Dashboard Design
@@ -36,14 +35,14 @@ This HR Analytics Dashboard was built using Microsoft Excel to analyze workforce
 - Pivot Charts
 - Data Visualization
 
- ##💡 Key Insights
- - The dashboard shows a total of 235 active employees.
- - Finance has the highest number of active employees.
- - The workforce consists of 62.98% male and 37.02% female employees.
- - Employment status is relatively balanced between Contract (51%) and Permanent (49%) employees.
- - Marketing has the highest average monthly salary among all departments.
- - Average employee performance is relatively consistent across departments, with scores ranging from approximately 3.9 to 4.2.
- - Most employees have 1 to 5 years of service.
+ ##💡 Insight
+- Dashboard menampilkan total 235 karyawan aktif.
+- Finance memiliki jumlah karyawan aktif terbanyak.
+- Komposisi karyawan terdiri dari 62,98% laki-laki dan 37,02% perempuan.
+- Status kepegawaian relatif seimbang antara Kontrak (51%) dan Tetap (49%).
+- Marketing memiliki rata-rata gaji bulanan tertinggi di antara semua departemen.
+- Rata-rata performa karyawan relatif konsisten di seluruh departemen, dengan skor berkisar antara 3,9 hingga 4,2.
+- Sebagian besar karyawan memiliki masa kerja 1 hingga 5 tahun.
  
     
 
